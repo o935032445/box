@@ -1,58 +1,70 @@
 
 台,#genre#
-罪案偵緝頻道,mitv://54.39.16.152:9906/62612fc9000147ae1859c35a8e800dbf
-罪案侦缉频道,mitv://ns1.hellotvvod.com:9906/f040aa719ed4408383c0cfa0242bfbc7
-罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/969d3da0dc624b599160cda58bd5daa2
-罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
-罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/8f3a8581c6924b9b919c157b6e6b5613.ts
-Ci罪案偵緝HD,p2p://144.217.121.122:18912/5b14098e0006282a17d2ef9371d76997.ts
-CI罪案偵緝HD,mitv://107.148.223.220:19906/5fb77ebf00082cf32af1aba80a3ab619
-Ci罪案偵緝频,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
-Ci罪案偵緝频,mitv://147.135.39.171:9906/5e9e6e670005ae36c07441c41ce47c56.ts
-罪案偵緝頻道,tvbus://4cXDenEV5apVF5xuGcmtKr4KCGmWuBQbjPydCzumuMssgEVtRA
-罪案偵緝頻道,tvbus://5cBuWJcyHBKyH8t8vCKZ9bpZUMUFk8DTc1LUuXYg3PGULKo7wsvxizftUPTmT
-罪案侦缉频道,P2p://ns1.hellotvvod.com:9906/16f9d5b08cb64cdc9afd6da5848f3269
-罪案侦缉频道,P2p://ns2.hellotvvod.com:9906/238e8f5257e74ba0af4fd1c9f13b1468.ts
-罪案偵緝頻道,p2p://0198.02686.cc:20012/5f37c7ab0006a300425d22f785b390d0.ts
-罪案侦缉頻道,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
-罪案偵緝頻道,p2p://fccs.word-tv.com:9906/62612fc9000147ae1859c35a8e800dbf
-罪案侦缉频道,p2p://211.75.214.186:9906/57a6943800026d603b32d946b217f158.ts
-罪案侦缉频道,P2p://generationnexxxt.com:19806/21d13521990b4bd18f486a0fc6922e76
-罪案侦缉频道,p2p://170.178.164.243:6210/5b448b3b0007d8c300052d4ec05e5cae.ts
-罪案侦缉频道,P2p://170.178.164.245:6191/5ac2de990002a0c50002c5024a0fc428.ts
-罪案侦缉频道,p2p://170.178.164.247:6170/5b448b390007ebcd00052583c06f7ab6.ts
-罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
-EVE,p2p://144.217.121.122:18912/5b14093f00043fac17d1ba7e4bed47f5.ts
-EVE,P2p://ns1.hellotvvod.com:9906/3ccc2eec25ab489db213f9fb46f26a12
-EVE,P2p://ns2.hellotvvod.com:9906/8f9ece269a2c4db7a33688e7589f5812.ts
-EVE,p2p://211.75.214.186:9906/57a711e30005b5b13d1dbe1594d02bab.ts
-EVE,P2p://generationnexxxt.com:19806/b7d093144d42449fbb2a3414e0161878
-EVE,tvbus://5USFnWaw7KDt7jiQu7fkYEMzFzAQ15abf7phKK4EjFeCgSERtxTLiNygHLcxZ
-EVE,mitv://ns1.hellotvvod.com:9906/0cc303d9645546d6af5dc3fd9b6992e0
-EVE,mitv://ns2.hellotvvod.com:9906/baa46551366d41e087c4dfd7544b2d20
-EVE,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
-EVE,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
-EVE,mitv://ns2.hellotvvod.com:9906/fcf34965b37f4e05a23ffe9ab314b967.ts
-EVE,mitv://198.255.74.87:9906/5dc08f090004c52401b7ade0b5732b25.ts
-EVE,mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
-EVE,mitv://107.148.223.220:19906/5fb77eca000683c92af1d6336ea3aa6e
-HISTORY 2 p2p://c.myeytv.me:6003/57971674000e194dc62188757ce17736.ts
-HISTORY 2,p2p://fccs.word-tv.com:9906/62612b2d000c46021847c4cb0d2536d1
-HISTORY 2,P2p://ns1.hellotvvod.com:9906/04b361440a4344648869f3613e2b1ba6
-HISTORY 2,P2p://ns2.hellotvvod.com:9906/57cf98706c784b31b8fe118bc5dda35c.ts
-History 2,p2p://144.217.121.122:18912/5b1408f3000402b217d0918e4c75078c.ts
-HISTORY 2,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
-HISTORY 2,mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
-HISTORY 2,mitv://54.39.16.152:9906/62612b2d000c46021847c4cb0d2536d1
-HISTORY 2,mitv://107.148.223.220:19906/5fb77ec5000345ae2af1c1d743a571e5
-History 2,mitv://198.255.74.87:9906/5dc08f09000054ba01b7acbd491ca921.ts
-History ,p2p://144.217.121.122:18912/5b1408f300071d3b17d0925942925ffc.ts
-History ,mitv://198.255.74.87:9906/5dc08f0900012d9701b7acf4e27b9395.ts
-HISTORY ,mitv://107.148.223.220:19906/5fb77ec50004209a2af1c20f6a0d3437
-History ,http://58.99.33.16:1935/liveedge6/live_019.stream/playlist.m3u8?checkCode=37050688asdfsdfsadf
-History ,tvbus://67U2sB4HwovmaqfajjNwR41JXGsSpntTr7VKTRcsKTR3yAbvHiTNQTxPNbeHc
-H2,mitv://147.135.39.171:9906/5d9a3718000bb2899ce3db2404476f62.ts
-H2,tvbus://65uc4WnPyY6F6seDNVLobGHNPTSrWCUhUqxNNpt8MQFQMMjqcQaUVxsKzGQ9y
+罪案偵緝頻道, http://fu2.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+罪案偵緝頻道, http://fu2.ottclub.info:1935/live/c558.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+罪案偵緝頻道, http://www.yhlfs.xyz/iptvs/oofmTV.php?id=88
+罪案偵緝頻道, http://qqq.okokip.com:8040/nimble_live/243/chunks.m3u8
+罪案侦辑頻道, http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+CI罪案偵查頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv027/master.m3u8?token=s88Zcb4-gm_SC7-DQm4sAA&expires=1494745215
+CI罪案偵查頻道,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv027/master.m3u8?token=fLyaXa8CtV7X40QI8l9a4Q&expires=1494745203
+Ci罪案侦缉頻道, http://192.240.106.42:7002/33
+CI罪案偵查頻道, http://tw.iptv8k.org/gftv.m3u8?id=443cab8c7be0e7c7
+Ci罪案侦缉, http://kk.luoke.net.cn/tw/asbb.php?id=058
+罪案偵輯, http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+CI TW,http://live9.cdn.iptv8k.org/live/crimeinvestigationkbmm15/s.m3u8
+Crime & Investigation,http://ott.artmott.com/CrimeAndInvestigation/tracks-v1a1/mono.m3u8
+Crime & Investigation,http://203.154.243.31:15001
+Crime & Investigation,http://live7.cdn.iptv8k.org/live/mys141/s.m3u8
+Crime & Investigation,http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
+Crime & Investigation 美國,http://live7.cdn.iptv8k.org/live/mys141/s.m3u8
+Crime & Investigation 英國,http://xxultraxx.com:80/assad/assad/748
+Crime & Investigation 英國,http://xxultraxx.com:80/assad/assad/11285
+Crime & Investigation,http://92.14.111.173:8007/play/a00u
+Crime & Investigation,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_1_11013&key=84797b799ae18d1b
+Crime & Investigation,http://cdn-07.sdn.si/crimeinvestigation/crimeinvestigation.isml/crimeinvestigation-video%3D1500000-audio101%3D128000.m3u8
+EVE, http://live8.cdn.iptv8k.org/live/evediscoverykbmm11/s.m3u8
+EVE, http://qqq.okokip.com:8040/nimble_live/215/chunks.m3u8
+EVE, http://50.7.77.130:50142/47
+EVE, http://www.yhlfs.xyz/iptvs/oofmTV.php?id=14
+EVE, http://fu3.ottclub.info:1935/live/c743.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+EVE, http://fu3.ottclub.info:1935/live/c243.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+EVE, http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_3_13006&key=84797b799ae18d1b
+EVE, http://210.201.54.102/gtlive/Dhome_sp.sdp/playlist.m3u8?t=C27EB7B0A9545EDF2331AE48B71F9EF8FCA5DD57B5A4F9868B1AD3A1E5496E61
+EVE, http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58f0bed9&b=Pu51-RhPi8nT4tEu1fDndw
+History, http://192.240.106.178:7012/38
+History, http://160.119.77.50/iptv/hd-historyeng.stream/playlist.m3u8
+History, http://160.119.77.50/iptv/uk-discoveryhistory.stream/playlist.m3u8
+History, http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
+History, http://58.99.33.16:1935/liveedge6/live_019.stream/playlist.m3u8?checkCode=37050688asdfsdfsadf
+History, http://pili-live-hdl.qhmywl.com/dsdtv/998ce23199bda76900024601f6dd859d.flv
+History, http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+History, http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+History, http://195.206.253.157:8101/history
+History, http://yura2121.iptvbot.biz/iptv/NBLWRC69E9VPB4/231/index.m3u8
+History, http://ott-cdn.ucom.am/s70/index.m3u8
+History, http://190.13.120.113/streams/history.m3u8
+History, http://xxultraxx.com:80/assad/assad/2622
+History, http://xxultraxx.com:80/assad/assad/11284
+History, http://iptv.electro-clair.net:8000/live/zizo/zizo/1767.m3u8
+History, http://212.200.101.3:5000/udp/237.0.0.53:5000
+History, http://46.234.100.41:8080/history/index.m3u8
+History, http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F149920150816T153535.ts=-1
+History, http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F149920150816T153535.ts=-1
+History, http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21633
+History歷史頻道, http://tw.iptv8k.org/gftv.m3u8?id=5bddcbd56e474934
+HISTORY, http://live7.cdn.iptv8k.org/live/mys162/s.m3u8#http://tw.iptv8k.org/gftv.m3u8?id=5bddcbd56e474934
+History, http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv026/master.m3u8?token=Nju6x8XzQwdsNxVXFXZ6Bg&expires=1494745200
+History, http://cdn-07.sdn.si/historychannel/historychannel.isml/historychannel-video%3D1500000-audio101%3D128000.m3u8
+HISTORY 英國, http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+HISTORY 美國, http://live7.cdn.iptv8k.org/live/mys162/s.m3u8
+HISTORY 美國, http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+History2,http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8812&key=84797b799ae18d1b
+HISTORY2,http://pili-live-hdl.qhmywl.com/dsdtv/b4d47c14a4665a2ef43d657ea6384c27.flv
+HISTORY頻道2,http://tw.iptv8k.org/gftv.m3u8?id=b448c6921bf4f3fd
+History2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+H2,http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+H2,http://92.14.111.173:8007/play/a00y
+H2,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv028/master.m3u8?token=pZPn6S4uh276zr8NHd9SVQ&expires=1494745217
 ##
 
 台-新聞,#genre#
