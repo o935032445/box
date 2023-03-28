@@ -1,4 +1,60 @@
 
+台,#genre#
+罪案偵緝頻道,mitv://54.39.16.152:9906/62612fc9000147ae1859c35a8e800dbf
+罪案侦缉频道,mitv://ns1.hellotvvod.com:9906/f040aa719ed4408383c0cfa0242bfbc7
+罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/969d3da0dc624b599160cda58bd5daa2
+罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
+罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/8f3a8581c6924b9b919c157b6e6b5613.ts
+Ci罪案偵緝HD,p2p://144.217.121.122:18912/5b14098e0006282a17d2ef9371d76997.ts
+CI罪案偵緝HD,mitv://107.148.223.220:19906/5fb77ebf00082cf32af1aba80a3ab619
+Ci罪案偵緝频,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
+Ci罪案偵緝频,mitv://147.135.39.171:9906/5e9e6e670005ae36c07441c41ce47c56.ts
+罪案偵緝頻道,tvbus://4cXDenEV5apVF5xuGcmtKr4KCGmWuBQbjPydCzumuMssgEVtRA
+罪案偵緝頻道,tvbus://5cBuWJcyHBKyH8t8vCKZ9bpZUMUFk8DTc1LUuXYg3PGULKo7wsvxizftUPTmT
+罪案侦缉频道,P2p://ns1.hellotvvod.com:9906/16f9d5b08cb64cdc9afd6da5848f3269
+罪案侦缉频道,P2p://ns2.hellotvvod.com:9906/238e8f5257e74ba0af4fd1c9f13b1468.ts
+罪案偵緝頻道,p2p://0198.02686.cc:20012/5f37c7ab0006a300425d22f785b390d0.ts
+罪案侦缉頻道,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
+罪案偵緝頻道,p2p://fccs.word-tv.com:9906/62612fc9000147ae1859c35a8e800dbf
+罪案侦缉频道,p2p://211.75.214.186:9906/57a6943800026d603b32d946b217f158.ts
+罪案侦缉频道,P2p://generationnexxxt.com:19806/21d13521990b4bd18f486a0fc6922e76
+罪案侦缉频道,p2p://170.178.164.243:6210/5b448b3b0007d8c300052d4ec05e5cae.ts
+罪案侦缉频道,P2p://170.178.164.245:6191/5ac2de990002a0c50002c5024a0fc428.ts
+罪案侦缉频道,p2p://170.178.164.247:6170/5b448b390007ebcd00052583c06f7ab6.ts
+罪案偵緝頻道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
+EVE,p2p://144.217.121.122:18912/5b14093f00043fac17d1ba7e4bed47f5.ts
+EVE,P2p://ns1.hellotvvod.com:9906/3ccc2eec25ab489db213f9fb46f26a12
+EVE,P2p://ns2.hellotvvod.com:9906/8f9ece269a2c4db7a33688e7589f5812.ts
+EVE,p2p://211.75.214.186:9906/57a711e30005b5b13d1dbe1594d02bab.ts
+EVE,P2p://generationnexxxt.com:19806/b7d093144d42449fbb2a3414e0161878
+EVE,tvbus://5USFnWaw7KDt7jiQu7fkYEMzFzAQ15abf7phKK4EjFeCgSERtxTLiNygHLcxZ
+EVE,mitv://ns1.hellotvvod.com:9906/0cc303d9645546d6af5dc3fd9b6992e0
+EVE,mitv://ns2.hellotvvod.com:9906/baa46551366d41e087c4dfd7544b2d20
+EVE,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
+EVE,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
+EVE,mitv://ns2.hellotvvod.com:9906/fcf34965b37f4e05a23ffe9ab314b967.ts
+EVE,mitv://198.255.74.87:9906/5dc08f090004c52401b7ade0b5732b25.ts
+EVE,mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
+EVE,mitv://107.148.223.220:19906/5fb77eca000683c92af1d6336ea3aa6e
+HISTORY 2 p2p://c.myeytv.me:6003/57971674000e194dc62188757ce17736.ts
+HISTORY 2,p2p://fccs.word-tv.com:9906/62612b2d000c46021847c4cb0d2536d1
+HISTORY 2,P2p://ns1.hellotvvod.com:9906/04b361440a4344648869f3613e2b1ba6
+HISTORY 2,P2p://ns2.hellotvvod.com:9906/57cf98706c784b31b8fe118bc5dda35c.ts
+History 2,p2p://144.217.121.122:18912/5b1408f3000402b217d0918e4c75078c.ts
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
+HISTORY 2,mitv://54.39.16.152:9906/62612b2d000c46021847c4cb0d2536d1
+HISTORY 2,mitv://107.148.223.220:19906/5fb77ec5000345ae2af1c1d743a571e5
+History 2,mitv://198.255.74.87:9906/5dc08f09000054ba01b7acbd491ca921.ts
+History ,p2p://144.217.121.122:18912/5b1408f300071d3b17d0925942925ffc.ts
+History ,mitv://198.255.74.87:9906/5dc08f0900012d9701b7acf4e27b9395.ts
+HISTORY ,mitv://107.148.223.220:19906/5fb77ec50004209a2af1c20f6a0d3437
+History ,http://58.99.33.16:1935/liveedge6/live_019.stream/playlist.m3u8?checkCode=37050688asdfsdfsadf
+History ,tvbus://67U2sB4HwovmaqfajjNwR41JXGsSpntTr7VKTRcsKTR3yAbvHiTNQTxPNbeHc
+H2,mitv://147.135.39.171:9906/5d9a3718000bb2899ce3db2404476f62.ts
+H2,tvbus://65uc4WnPyY6F6seDNVLobGHNPTSrWCUhUqxNNpt8MQFQMMjqcQaUVxsKzGQ9y
+##
+
 台-新聞,#genre#
 TVBS新聞 HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新聞,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
@@ -122,8 +178,6 @@ SBN全球財經,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
 原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
 原住民族電視台,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8
 ##
-
-
 
 台-綜合,#genre#
 AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
