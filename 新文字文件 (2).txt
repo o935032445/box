@@ -1,4 +1,4 @@
-台1,#genre#
+台168,#genre#
 全民最大黨,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
 欧美影院,http://39.136.48.4:8089/PLTV/88888888/224/3221226345/index.m3u8
 亚洲影院,http://39.136.48.2:8089/PLTV/88888888/224/3221225844/index.m3u8
