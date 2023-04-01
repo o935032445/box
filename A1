@@ -212,7 +212,7 @@ EVE,http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58f0bed9&b=Pu5
 EVE,http://210.201.54.102/gtlive/Dhome_sp.sdp/playlist.m3u8?t=C27EB7B0A9545EDF2331AE48B71F9EF8FCA5DD57B5A4F9868B1AD3A1E5496E61
 ##
 
-{"🏹🍋🥗🍊其他频道,#genre#":[
+{"🏹♧其他频道,#genre#":[
 {"name":"HBO","source":["zlive://173.208.209.114:7719/d700c8affdfd8daea555a4cc15da76b5"]},
 {"name":"HBO HITS","source":["zlive://173.208.209.114:7719/b56c388ebb3440f58966ffd52cca637b"]},
 {"name":"HBO Signature","source":["zlive://173.208.209.114:7719/3677ff4a033b338ab4542e95643290c9"]},
@@ -238,7 +238,7 @@ EVE,http://210.201.54.102/gtlive/Dhome_sp.sdp/playlist.m3u8?t=C27EB7B0A9545EDF23
 
 
 
-🏹🦑其他频道,#genre#
+🏹●其他频道,#genre#
 HBO,zlive://173.208.209.114:7719/d700c8affdfd8daea555a4cc15da76b5
 HBO HITS,zlive://173.208.209.114:7719/b56c388ebb3440f58966ffd52cca637b
 HBO Signature,zlive://173.208.209.114:7719/3677ff4a033b338ab4542e95643290c9
