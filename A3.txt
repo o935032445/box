@@ -219,24 +219,15 @@ EVE,http://210.201.54.102/gtlive/Dhome_sp.sdp/playlist.m3u8?t=C27EB7B0A9545EDF23
 🌶其他频道,#genre#
 
 罪案偵緝頻道,p2p://1023005977:9900/5711b4dd000a088e00c0900213dc2f0f&link=HGFDSAihgfd
-
-
 罪案偵緝頻道,tvbus://4cXDenEV5apVF5xuGcmtKr4KCGmWuBQbjPydCzumuMssgEVtRA
 Ci罪案偵緝 HD,p2p://198.255.74.57:12396/5e50205f000d180c3d327d0e19e1ee23.ts
-
-
 Ci罪案偵緝,p2p://144.217.121.122:18912/5b14098e0006282a17d2ef9371d76997.ts
-
 Ci罪案偵緝 HD,mitv://198.255.74.87:9906/5dc08f050004997001b79e35b0f8145d.ts
-
-
 Ci罪案偵緝HD,P2p://147.135.39.171:9906/5e9e6e670005ae36c07441c41ce47c56.ts
-
 Ci罪案偵緝 HD,p2p://198.255.74.56:13296/5facafb400019c3200b8e702330cdbde.ts
 CI罪案侦缉HD,mitv://107.148.223.220:48916/5fabc57b000d0176fd25fb45ebf097a9
 罪案侦缉频道,P2p://170.178.164.245:6191/5ac2de990002a0c50002c5024a0fc428.ts
 Ci罪案侦缉.HD,p2p://190.2.146.92:18912/5b14098e0006282a17d2ef9371d76997.ts
-
 罪案偵緝頻道,mitv://ns1.hellotvvod.com:9906/9968193b9025460296f2876010dca377
 罪案侦缉频道,mitv://ns1.hellotvvod.com:9906/f040aa719ed4408383c0cfa0242bfbc7
 罪案侦缉频道,P2p://generationnexxxt.com:19806/21d13521990b4bd18f486a0fc6922e76
@@ -246,13 +237,9 @@ Ci罪案侦缉.HD,p2p://190.2.146.92:18912/5b14098e0006282a17d2ef9371d76997.ts
 罪案侦缉频道,P2p://ns2.hellotvvod.com:9906/238e8f5257e74ba0af4fd1c9f13b1468.ts
 罪案偵緝HD,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
 罪案侦缉,P2p://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
-
 EVE,tvbus://3zaD3rfctgJgBQejewurNYV7rFCbU3hR3b5ARup8ZmidjJkre3
-
 EVE HD,p2p://198.255.74.57:12396/5e5020630006fd943d328b1ef0db2936.ts
-
 EVE,p2p://1023005977:9900/5711b974000bd8de00d27e47397e1d61&link=HGFDSAihgfd
-
 EVEHD,p2p://144.217.121.122:18912/5b14093f00043fac17d1ba7e4bed47f5
 EVE,mitv://ns1.hellotvvod.com:9906/0cc303d9645546d6af5dc3fd9b6992e0
 EVE,mitv://ns2.hellotvvod.com:9906/baa46551366d41e087c4dfd7544b2d20
@@ -262,9 +249,7 @@ EVE HD,p2p://198.255.74.56:13296/5facafbf0005195900b912df3d36c6c3.ts
 EVE.HD,mitv://107.148.223.220:48916/5fabc5870005428afd2628298cd19c1d
 EVE HD,P2p://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
 EVE,mitv://198.255.74.87:9906/5dc08f090004c52401b7ade0b5732b25.ts
-
 HBO,P2p://generationnexxxt.com:19806/22e62f2a02e148b994e170e1f08c37d5
-
 HBO强档巨献,P2p://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
 HBO原创巨献,P2p://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
 EVE,P2p://generationnexxxt.com:19806/cb003e49d5224ce09856f1c1770c32e5
