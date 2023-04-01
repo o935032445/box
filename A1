@@ -212,7 +212,36 @@ EVE,http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58f0bed9&b=Pu5
 EVE,http://210.201.54.102/gtlive/Dhome_sp.sdp/playlist.m3u8?t=C27EB7B0A9545EDF2331AE48B71F9EF8FCA5DD57B5A4F9868B1AD3A1E5496E61
 ##
 
-{"🏹♧其他频道,#genre#":[
+
+
+
+🏹🧲●●其他频道,#genre#
+HBO,zlive://173.208.209.114:7719/d700c8affdfd8daea555a4cc15da76b5
+HBO HITS,zlive://173.208.209.114:7719/b56c388ebb3440f58966ffd52cca637b
+HBO Signature,zlive://173.208.209.114:7719/3677ff4a033b338ab4542e95643290c9
+美亚电影,zlive://173.208.209.114:7719/27a882efd7d16411315d998117527593
+星衛电影台,zlive://173.208.209.114:7719/cbb370795de075908faf9efc84a7bd1a
+靖天电影台,zlive://173.208.209.114:7719/b2ab02cd2e797f87c924adb877406380
+HBO family,zlive://173.208.209.114:7719/205d6f2ce4906f6f32ebba9522d697c4
+壹电影,zlive://173.208.209.114:7719/3bce9de4abee51affc7e82affacd22ee
+罪案侦缉,P2p://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
+HBO,P2p://generationnexxxt.com:19806/22e62f2a02e148b994e170e1f08c37d5
+HBO强档巨献,P2p://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
+HBO原创巨献,P2p://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
+EVE,P2p://generationnexxxt.com:19806/cb003e49d5224ce09856f1c1770c32e5
+美亚电影台,P2p://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
+龙华电影,P2p://generationnexxxt.com:19806/caa18819e3884ce9813a067530171bf2
+星卫电影台,P2p://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
+靖天电影台,P2p://generationnexxxt.com:19806/37f508458d18414ea7ea39ef3094e33a
+HBO Family,P2p://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
+CatchPlay电影台,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
+壹电视电影台,P2p://generationnexxxt.com:19806/0c547d4f29db4bef9790f259ee669818
+##
+
+
+
+
+{"🏹其他频道,#genre#":[
 {"name":"HBO","source":["zlive://173.208.209.114:7719/d700c8affdfd8daea555a4cc15da76b5"]},
 {"name":"HBO HITS","source":["zlive://173.208.209.114:7719/b56c388ebb3440f58966ffd52cca637b"]},
 {"name":"HBO Signature","source":["zlive://173.208.209.114:7719/3677ff4a033b338ab4542e95643290c9"]},
@@ -238,33 +267,7 @@ EVE,http://210.201.54.102/gtlive/Dhome_sp.sdp/playlist.m3u8?t=C27EB7B0A9545EDF23
 
 
 
-🏹●■其他频道,#genre#
-HBO,zlive://173.208.209.114:7719/d700c8affdfd8daea555a4cc15da76b5
-HBO HITS,zlive://173.208.209.114:7719/b56c388ebb3440f58966ffd52cca637b
-HBO Signature,zlive://173.208.209.114:7719/3677ff4a033b338ab4542e95643290c9
-美亚电影,zlive://173.208.209.114:7719/27a882efd7d16411315d998117527593
-星衛电影台,zlive://173.208.209.114:7719/cbb370795de075908faf9efc84a7bd1a
-靖天电影台,zlive://173.208.209.114:7719/b2ab02cd2e797f87c924adb877406380
-HBO family,zlive://173.208.209.114:7719/205d6f2ce4906f6f32ebba9522d697c4
-壹电影,zlive://173.208.209.114:7719/3bce9de4abee51affc7e82affacd22ee
 
-
-
-
-
-罪案侦缉,P2p://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
-HBO,P2p://generationnexxxt.com:19806/22e62f2a02e148b994e170e1f08c37d5
-HBO强档巨献,P2p://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
-HBO原创巨献,P2p://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
-EVE,P2p://generationnexxxt.com:19806/cb003e49d5224ce09856f1c1770c32e5
-美亚电影台,P2p://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
-龙华电影,P2p://generationnexxxt.com:19806/caa18819e3884ce9813a067530171bf2
-星卫电影台,P2p://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
-靖天电影台,P2p://generationnexxxt.com:19806/37f508458d18414ea7ea39ef3094e33a
-HBO Family,P2p://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
-CatchPlay电影台,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
-壹电视电影台,P2p://generationnexxxt.com:19806/0c547d4f29db4bef9790f259ee669818
-##
 
 
 
