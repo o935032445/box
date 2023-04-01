@@ -140,6 +140,7 @@ CATCHPLAY電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3
 ##
 
 🥭罪案偵輯,#genre#
+CI罪案侦查,http://du1.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
 History,http://192.168.1.113:81/57672705_0_11106_44992_0_0_1718_3718_718_1718_16.ts
 History,http://zhanglulai.tpddns.cn:818/73417733_0_12270_29996_0_1_1226_1227_1228_1226_16.ts
 History;http://zhanglulai.tpddns.cn:818/57680913_0_11544_44992_0_1_1117_3117_117_1117_16.ts
@@ -216,7 +217,6 @@ EVE,http://210.201.54.102/gtlive/Dhome_sp.sdp/playlist.m3u8?t=C27EB7B0A9545EDF23
 
 
 🌶其他频道,#genre#
-CI罪案侦查,http://du1.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
 
 罪案偵緝頻道,p2p://1023005977:9900/5711b4dd000a088e00c0900213dc2f0f&link=HGFDSAihgfd
 
