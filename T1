@@ -33,6 +33,7 @@ HBO,http://220.134.196.147:9557/index.m3u8
 HBO,http://208.115.225.174:14136
 HBO,http://208.115.225.174:14140
 HBO,http://208.115.225.174:14165
+HBO,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 HBO,http://192.168.1.113:81/76560399_0_4061_26662_0_1_61_62_63_61_16.ts
 HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
 HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
@@ -117,11 +118,26 @@ HBO FHD HVEC,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
 HBO MAX1,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10934
 
 
+
 🐍HBO Fmily,http://61.222.202.191/live/yzyh.php?id=93
+🐷HBO HD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+🐷HBO HD,http://125.227.210.37:12801/VideoInput/play.ts
 🐍HBO HD,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 🐍HBO HD,http://45.11.92.153/lbq/twtv88.php?id=332
+🐷HBO HD,http://106.12.69.60/test/凤凰代理.php?url=sop://api/fhtv.php?fhtv!play!line=hk1!vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMzI_
+🐷HBO,http://153.99.180.70:5021/live/261/playlist.m3u8
 🐍HBO,http://61.222.202.191/live/yzyh.php?id=91
 🐍HBO,http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch41.m3u8?token=
+🐷HBO原创,http://106.12.69.60/test/凤凰代理.php?url=sop://api/fhtv.php?fhtv!play!line=hk1!vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMjk_
+🐷HBO原创,http://153.99.180.70:5021/live/436/playlist.m3u8
+🐷HBO强档,http://106.12.69.60/test/凤凰代理.php?url=sop://api/fhtv.php?fhtv!play!line=hk1!vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMzA_
+🐷HBO强档,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+🐷HBO强档,http://153.99.180.70:5021/live/238/playlist.m3u8
+🐷HBO家庭,http://106.12.69.60/test/凤凰代理.php?url=sop://api/fhtv.php?fhtv!play!line=hk1!vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QzMzE_
+🐷HBO家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+🐷HBO家庭,http://153.99.180.70:5021/live/181/playlist.m3u8
+🐷HBO家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+
 
 HISTORY,http://iptv12k.com:35461/live/test167/12345/171.m3u8
 HISTORY(a),http://iptv12k.com:35461/live/test167/12345/296.m3u8
@@ -276,6 +292,7 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🥭EVE,http://fu3.ottclub.info:1935/live/c243.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
 🥭EVE,http://kb1.ottclub.info:443/water/c728.stream/playlist.m3u8?a=58f0bed9&b=Pu51-RhPi8nT4tEu1fDndw
 🥭EVE,http://210.201.54.102/gtlive/Dhome_sp.sdp/playlist.m3u8?t=C27EB7B0A9545EDF2331AE48B71F9EF8FCA5DD57B5A4F9868B1AD3A1E5496E61
+🐷EVE,http://106.12.69.60/test/凤凰代理.php?url=sop://api/fhtv.php?fhtv!play!line=hk1!vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QxMDM2
 ##
 
 
@@ -316,7 +333,19 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🎄罪案侦缉频道,P2p://ns2.hellotvvod.com:9906/238e8f5257e74ba0af4fd1c9f13b1468.ts
 🎄罪案侦缉,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
 🎄罪案侦缉,P2p://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
+🐷Ci罪案侦缉,P2p://104.149.94.154:6358/5f1c86bf00086cb5242c0fe566da5ffb
+🐷Ci罪案侦缉,P2p://fccsovh.pvbox.live:18912/5b14098e0006282acdf2f0e199545870
+🐷Ci罪案侦缉,P2p://198.255.74.57:41196/5f1c86bf00086cb5242c0fe566da5ffb.ts
+🐷Ci罪案侦缉,P2p://198.255.74.57:12196/5f0601c100020315b9789630183ed2bc.ts
+🐷Ci罪案侦缉,P2p://198.255.74.57:12396/5f3a537900007c0f9893c46dc61350cc.ts
 
+
+
+🐷History2,P2p://fccsovh.pvbox.live:18912/5b1408f3000402b2e5f4077233c38acb
+🐷History2,P2p://198.255.74.57:41196/5f1c86cd0005e19d242c45ef7eaad8ed.ts
+🐷History2,P2p://104.149.94.154:6358/5f1c86cd0005e19d242c45ef7eaad8ed
+🐷History2,P2p://198.255.74.57:12396/5f3a537f00074d649893dd9c246d8433.ts
+🐷History2,P2p://198.255.74.57:12196/5f0601c500002534b978a5569b53d711.ts
 🎄History2,P2p://147.135.39.171:9906/5d9a3718000bb2899ce3db2404476f62&kss=333
 🎄History2,P2p://ns1.hellotvvod.com:9906/c9fe714f3f134061b53bd8d758af2cb4
 🎄History2,P2p://ns2.hellotvvod.com:9906/3081b3f14c1c4de8b53e716588c3fe93
@@ -324,6 +353,14 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🎄History2,P2p://ns2.hellotvvod.com:9906/fb050b191e6b43e2825de848923e9906
 
 
+🐷EVE,P2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6a62577151695bd697
+🐷EVE,P2p://fccsovh.pvbox.live:18912/5b14093f00043fac039c9178695b6e25
+🐷EVE,P2p://185.169.196.146:9906/59fd286b000e1cdb02b260d1385f3d28.ts
+🐷EVE,P2p://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
+🐷EVE,P2p://104.149.94.154:6358/5f1c86cd000a246a242c47066f504d66
+🐷EVE,P2p://198.255.74.57:41196/5f1c86cd000a246a242c47066f504d66.ts
+🐷EVE,P2p://198.255.74.57:12396/5f3a537f000ba3b49893deb82e518ca2.ts
+🐷EVE,P2p://198.255.74.57:12196/5f0601c5000447abb978a665e68fbed9.ts
 🎄EVE,p2p://198.255.74.57:12396/5e5020630006fd943d328b1ef0db2936.ts
 🎄EVE,p2p://1023005977:9900/5711b974000bd8de00d27e47397e1d61&link=HGFDSAihgfd
 🎄EVE,p2p://144.217.121.122:18912/5b14093f00043fac17d1ba7e4bed47f5
@@ -331,13 +368,55 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🎄EVE,p2p://198.255.74.56:13296/5facafbf0005195900b912df3d36c6c3.ts
 🎄EVE,P2p://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
 🎄EVE,P2p://generationnexxxt.com:19806/cb003e49d5224ce09856f1c1770c32e5
+🐷HBO 2,P2p://fccsovh.pvbox.live:18912/5b593bd6000be4cad379b81a775a6cf6
 🎄HBO,P2p://generationnexxxt.com:19806/22e62f2a02e148b994e170e1f08c37d5
+🐷HBO,P2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
+🐷HBO,P2p://104.149.94.154:6358/5f1c86da00030a10242c77fc033b0500
+🐷HBO HD,P2p://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
+🐷HBO HD,P2p://198.255.74.57:41196/5f1c86da00030a10242c77fc033b0500.ts
+🐷HBO HD,P2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68
+🐷HBO HD(备一),P2p://fccsovh.pvbox.live:18912/5c7249dd000ca2108817c65b6059636f
+🐷HBO强档(备一),P2p://fccsovh.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b
+🐷HBO强档,P2p://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
+🐷HBO强档,P2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52
+🐷HBO强档,P2p://198.255.74.57:41196/5f1c86d400034566242c609c9a73885a.ts
+🐷HBO强档,P2p://104.149.94.154:6358/5f1c86d400034566242c609c9a73885a
 🎄HBO强档,P2p://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
 🎄HBO原创,P2p://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
+🐷HBO原创,P2p://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
+🐷HBO原创,P2p://185.169.196.146:9906/59fd14fc0005019f026674e730ed03b5.ts
+🐷HBO原创,P2p://198.255.74.57:41196/5f1c86d400027289242c6066f7513015.ts
+🐷HBO原创,P2p://fccsovh.pvbox.live:18912/5bee50610008e86999fec66ff912bd0f
+🐷HBO原创,P2p://104.149.94.154:6358/5f1c86d400027289242c6066f7513015
+🐷HBO原创,P2p://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
+🐷HBO原创,P2p://fccsovh.pvbox.live:18912/5b593bbb0008513384b7fee1ab8f9d84
+🐷HBO家庭(备一),P2p://fccsovh.pvbox.live:18912/5c7249ea0008e0b81d58423315e60ce6
+🐷HBO家庭,P2p://185.169.196.146:9906/59fd152900015243026723c45811069b.ts
+🐷HBO家庭,P2p://fccsovh.pvbox.live:18912/5bee505700010a745bac3a281697dc45
+🐷HBO家庭,P2p://fccsovh.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32
 🎄HBO家庭,P2p://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
+🐷美亚电影(备一),P2p://fccsovh.pvbox.live:18912/5c724a0e00044283f396d5fe6ea9539f
+🐷美亚电影,P2p://147.135.39.171:9906/5e7cf98e00020cab3dc388220eeb0f7e.ts
+🐷美亚电影,P2p://185.169.196.146:9906/59fd08470008d4d60234d2d92e65644c.ts
+🐷美亚电影,P2p://104.149.94.154:6358/5f1c86da0004f9f6242c787bd6ee1827
+🐷美亚电影,P2p://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735
 🎄美亚电影,P2p://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
+🐷龙华电影,P2p://147.135.39.171:9906/5e975a5100046cd4a4cdb96549212d2b.ts
+🐷龙华电影,P2p://fccsovh.pvbox.live:18912/5b140922000d1231db04a3ca4e5816d4
 🎄龙华电影,P2p://generationnexxxt.com:19806/caa18819e3884ce9813a067530171bf2
+🐷龙华洋片,P2p://185.169.196.146:9906/59fd07650001a79102315e34781149f3.ts
+🐷龙华洋片,P2p://104.149.94.154:6358/5f1c8719000e3031242d70ef9b342b7c
+🐷龙华洋片,P2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e
+🐷星卫电影(备一),P2p://fccsovh.pvbox.live:18912/5c724a05000626a678e70bc5c42edcc6
+🐷星卫电影,P2p://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
+🐷星卫电影,P2p://104.149.94.154:6358/5f1c86da0004243d242c78454e6e1051
+🐷星卫电影,P2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
+🐷星卫电影,P2p://fccsovh.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982
 🎄星卫电影,P2p://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4
+🐷靖天电影,P2p://104.149.94.154:6358/5f1c870e000135c4242d42a46c30dd47
+🐷靖天电影,P2p://fccsovh.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b32d42a46c30dd47.ts
+🐷靖天电影,P2p://198.255.74.57:41196/5f1c870e000135c4242d42a46c30dd47.ts
+🐷靖天电影,P2p://185.169.196.146:9906/59fd358c00069b9502e5a7d404d940d2.ts
 🎄靖天电影,P2p://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
 🎄靖天电影,P2p://generationnexxxt.com:19806/37f508458d18414ea7ea39ef3094e33a
 🎄CatchPlay电影,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461
@@ -369,6 +448,8 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🌷罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/da0ea53bbcf64e0796746d63e03e0529
 🌷罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/dba9762dc66d44148514470c0f4e0ce5.ts
 🌷罪案侦缉频道,mitv://generationnexxxt.com:19806/74bcbb6b8f204f08be1deb3d96760dd6
+🐷罪案侦缉频道,mitv://fccs.word-tv.com:9906/62612fc9000147ae1859c35a8e800dbf
+
 
 
 🌷History,mitv://51.79.41.138:18912/5b1408f300071d3b168710326061c261.ts
@@ -378,6 +459,7 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🌷History2,mitv://ns2.hellotvvod.com:9906/4b1a747fa84f404ea416e5b758cb8525.ts
 🌷History2,mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
 🌷History2,mitv://ns2.hellotvvod.com:9906/3fc31b8a47d847ae86d15d9eef9b96e1
+🐷History2,mitv://fccs.word-tv.com:9906/62612b2d000c46021847c4cb0d2536d1
 
 🌷EVE,mitv://51.79.41.138:18912/5b14093f00043fac65b1cbd52ba18117.ts
 🌷EVE,mitv://generationnexxxt.com:19806/cb003e49d5224ce09856f1c1770c32e5
@@ -403,12 +485,14 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🌷HBO强档,mitv://51.79.41.138:18912/5b14096900084dd9c11cc16c5611eb76.ts
 🌷HBO强档,mitv://generationnexxxt.com:19806/ca8f37d06bdb489d848920e5cfe4c4e4
 🌷HBO强档,mitv://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
+🐷美亚电影,mitv://fccs.word-tv.com:9906/62613d420000a1a0188e63d84b81b11c
 🌷美亚电影,mitv://ns2.hellotvvod.com:9906/1fc034defbb24a569a9bbca8b57fb5fe
 🌷美亚电影,mitv://51.79.41.138:18912/5b14098f0007961555aceecec68bb109.ts
 🌷美亚电影,mitv://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596
 🌷美亚电影,mitv://generationnexxxt.com:19806/0dbdaf5c0e3f414abf614ed174b34d67
 🌷龙华电影,mitv://generationnexxxt.com:19806/caa18819e3884ce9813a067530171bf2
 🌷龙华电影,mitv://generationnexxxt.com:19806/bbae566b599a4bba8a1bc4cd19f0636b
+🐷星卫电影,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
 🌷星卫电影,mitv://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec44667801
 🌷星卫电影,mitv://51.79.41.138:18912/5b140940000a727a1de978c32eaafddd.ts
 🌷星卫电影,mitv://51.79.41.138:18912/5bdbf3b90004478abc191859c8870a42.ts
@@ -418,9 +502,13 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🌷靖天电影,mitv://51.79.41.138:18912/5b14093f0000e91e26d71880e87dc6ee.ts
 🌷靖天电影,mitv://generationnexxxt.com:19806/37f508458d18414ea7ea39ef3094e33a
 🌷靖天电影,mitv://generationnexxxt.com:19806/df9893e6ca70430492818337732a939f
+🐷龙华洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
 🌷龙华洋片,mitv://51.79.41.138:18912/5b140917000c1e9b6979810e84e0e7d5.ts
 🌷壹电视电影,mitv://generationnexxxt.com:19806/0c547d4f29db4bef9790f259ee669818
 🌷壹电视电影,mitv://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
+🐷壹电视电影,mitv://fccs.word-tv.com:9906/62674e97000a6a59163e799316c3d943
+🐷天映电影,mitv://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
+🐷影迷数位电影,mitv://fccs.word-tv.com:9906/626a074600072a2c06db6c8c9af16e70
 ##
 
 
@@ -429,6 +517,7 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🍩其他1,#genre#
 🍗罪案侦缉频道,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 🍗罪案侦缉频道,http://iptv12k.com:35461/live/test167/12345/1246.m3u8
+🍗HBO,http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=hbo
 🍗HBO家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 🍗美亚电影,http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 
@@ -502,10 +591,14 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 🍩星卫电影,p8p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 🍩星卫电影,p8p://45.92.126.18:9906/6044d33b0006a70302ec02a7d10a2600.ts
 
+🐷靖天电影,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73
 🍩靖天电影,p8p://45.92.126.18:19706/6045b9cc00094ab70670a9bc88048a82
 🍩靖天电影,p8p://860969650:9906/86533153a6a741d3af531f8efa6054f6
 🍩靖天电影,p8p://fccs.123178.top:9906/6045b9cc00094ab70670a9bc88048a82.ts
 🍩靖天电影,p8p://45.92.126.18:9906/6045b9cc00094ab70670a9bc88048a82.ts
+
+
+
 
 🍩龙华洋片,p8p://45.92.126.18:9906/6044287d000e2bb500510e64fec426ab.ts
 🍩龙华洋片,p8p://45.92.126.18:19706/6044287d000e2bb500510e64fec426ab	
@@ -534,6 +627,12 @@ HISTORY2(b),http://iptv12k.com:35461/live/test167/12345/10962.m3u8
 
 
 
+👩‍👩‍👧其他3,#genre#
+👩‍👩HBO HD,vjms://58.215.133.189:8500/live/cid=261
+👩‍👩HBO HD,vjms://58.215.133.154:8500/live/cid=261
+👩‍👩HBO原创巨献,vjms://58.215.133.154:8500/live/cid=436
+👩‍👩HBO强档巨献,vjms://58.215.133.154:8500/live/cid=238
+👩‍👩HBO温馨家庭,vjms://58.215.133.154:8500/live/cid=181
 
 
 
