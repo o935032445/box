@@ -34,9 +34,10 @@ History,http://iptv12k.com:35461/live/8032022060101/452381/1206.m3u8
 History,http://187.85.237.32:8825/ipvt_007
 History,http://84.17.61.200:8085/udp/238.2.16.188:1234
 
+👉History2,http://cdn.connectbr.com.br:80/h2/playlist.m3u8
 History2,http://iptv12k.com:35461/live/test167/12345/1201.m3u8
 History2,http://iptv12k.com:35461/live/8032022060101/452381/1201.m3u8
-👉History2,http://cdn.connectbr.com.br:80/h2/playlist.m3u8
+
 H2,https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 
 探索,http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429145628240518&channel-id=wasusyt&Contentid=5359008697329269813
@@ -118,16 +119,16 @@ HBO原创,http://192.168.1.113:81/73403424_0_11613_43193_0_1_61_127_128_61_16.ts
 ✔️HBO家庭(a),http://iptv12k.com:35461/live/test167/12345/1265.m3u8
 ✔️HBO家庭(b),http://iptv12k.com:35461/live/test167/12345/1891.m3u8
 
-✔️HBO家庭,http://103.68.63.37:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-✔️HBO家庭,http://103.68.63.37:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-✔️HBO家庭,http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497683
-✔️HBO家庭,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10121
-✔️HBO家庭,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10119
-✔️HBO家庭　,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10615
-✔️HBO家庭　,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10623
-✔️HBO家庭　,http://208.115.225.174:14148
-✔️HBO家庭　,http://zhanglulai.tpddns.cn:818/73403423_0_11613_43193_0_1_42_49_53_42_16.ts
-✔️HBO家庭　,http://iptv12k.com:35461/live/test167/12345/257.m3u8
+HBO家庭,http://103.68.63.37:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO家庭,http://103.68.63.37:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO家庭,http://abc123.digital:8080/juliankblake@gmail.com/vB9NjnD4b2/497683
+HBO家庭,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10121
+HBO家庭,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10119
+HBO家庭　,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10615
+HBO家庭　,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10623
+HBO家庭　,http://208.115.225.174:14148
+HBO家庭　,http://zhanglulai.tpddns.cn:818/73403423_0_11613_43193_0_1_42_49_53_42_16.ts
+HBO家庭　,http://iptv12k.com:35461/live/test167/12345/257.m3u8
 
 HBO家庭　,http://open.live-web.timetv.cn/live/lbtv.m3u8?token=TOKEN&channel=4595F0D85B
 HBO家庭　,http://www.iamntp.com/tv/link/family_onweb.m3u8
@@ -241,6 +242,12 @@ HBO Mundi,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10294
 HBO H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10618
 HBO FHD HVEC,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
 HBO MAX1,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10934
+
+
+
+
+
+
 ##
 
 💡测777,#genre#
