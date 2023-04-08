@@ -14,11 +14,9 @@
 龙华电影,http://59.125.122.90:18574/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
 龙华电影,http://59.125.122.90:18574/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
 
-
 👉靖天电影,https://884d105e334d4dbb98ee584bb97542cd.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/50bc07a2b4601aa7bb1dac8f09af1d7078560ccf/4gtv_freemobileweb/25d132b1-d755-40c8-9133-5eb5808f2dcf/2.m3u8
 
 👉amc电影,https://884d105e334d4dbb98ee584bb97542cd.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/50bc07a2b4601aa7bb1dac8f09af1d7078560ccf/4gtv_freemobileweb/303329bf-7ccc-4c39-9f8f-96a18b23f7ef/2.m3u8
-
 
 👉影迷数位电影,https://884d105e334d4dbb98ee584bb97542cd.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/50bc07a2b4601aa7bb1dac8f09af1d7078560ccf/4gtv_freemobileweb/7ad88774-83ed-44d9-9623-2b04f42ca34b/2.m3u8
 
@@ -55,7 +53,6 @@ H2,https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 
 HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 
-
 HBO强档,http://iptv12k.com:35461/live/test167/12345/1264.m3u8
 HBO强档,http://iptv12k.com:35461/live/8032022060101/452381/1264.m3u8
 HBO强档,http://50.7.220.74:8278/hbohits_twn/playlist.m3u8?tid=MEAE4573157945731579&ct=18392&tsum=f86959d8d1d44b2eb9d30f62bdf2835f
@@ -84,13 +81,11 @@ HBO家庭,http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&t
 
 [TW]HBO温馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
-
 ✔️HBO原创,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10122
 ✔️HBO原创,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10630
 HBO原创,http://pull-l3-cny.douyincdn.com/third/stream-9bfb4b08fec367ed3850357a853250d5.m3u8
 ✔️HBO原创,http://208.115.225.174:14160
 ✔️HBO原创,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-
 
 ✔️HBO原创(a),http://iptv12k.com:35461/live/test167/12345/1263.m3u8
 ✔️HBO原创(b),http://iptv12k.com:35461/live/test167/12345/13453.m3u8
@@ -114,7 +109,6 @@ HBO原创,http://192.168.1.113:81/73403424_0_11613_43193_0_1_61_127_128_61_16.ts
 
 　HBO原创　,http://103.68.63.37:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 　HBO原创　,http://103.68.63.37:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-
 
 ✔️HBO家庭(a),http://iptv12k.com:35461/live/test167/12345/1265.m3u8
 ✔️HBO家庭(b),http://iptv12k.com:35461/live/test167/12345/1891.m3u8
@@ -145,7 +139,6 @@ HBO家庭　,http://192.168.1.113:81/73403423_0_11613_43193_0_1_42_49_53_42_16.t
 　HBO家庭　,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 　HBO家庭　,http://153.99.180.70:5021/live/181/playlist.m3u8
 
-
 ✔️HBO强档(a),http://iptv12k.com:35461/live/test167/12345/1264.m3u8
 ✔️HBO强档(b),http://iptv12k.com:35461/live/test167/12345/1889.m3u8
 
@@ -164,7 +157,6 @@ HBO强档　,http://153.99.180.70:5021/live/238/playlist.m3u8
 　HBO强档　,http://137.175.36.206:8188/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 　HBO强档　,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 　HBO强档　,http://open.live-web.timetv.cn/live/lbtv.m3u8?token=TOKEN&channel=BC00B89339
-
 
 HBO HD(a),http://iptv12k.com:35461/live/test167/12345/1893.m3u8
 HBO HD(b),http://iptv12k.com:35461/live/test167/12345/1266.m3u8
@@ -242,12 +234,6 @@ HBO Mundi,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10294
 HBO H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10618
 HBO FHD HVEC,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
 HBO MAX1,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10934
-
-
-
-
-
-
 ##
 
 💡测777,#genre#
@@ -788,7 +774,6 @@ EVE,tvbus://3zaD3rfctgJgBQejewurNYV7rFCbU3hR3b5ARup8ZmidjJkre3
 松视3,p3p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5
 ##
 
-
 👨🏿測p5,#genre#
 EVE,p5p://fccs.123178.top:9906/60689d110008d7a31345719a76b95329
 罪案侦缉频道,p5p://fccs.123178.top:9906/604947cc00047a751453588132b90a12.ts
@@ -856,7 +841,6 @@ HBO家庭,vjms://58.215.133.194:8500:3502/live/cid=181
 HBO强档,vjms://58.215.133.194:8500:3502/live/cid=238
 HBO亚洲,vjms://58.215.133.194:8500:3502/live/cid=261
 HBO原创,vjms://58.215.133.194:8500:3502/live/cid=436
-
 
 HBO HD,vjms://58.215.133.189:8500/live/cid=261
 HBO HD,vjms://58.215.133.154:8500/live/cid=261
