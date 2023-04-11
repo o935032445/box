@@ -294,10 +294,10 @@ HBO MAX1,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10934
 龙华电影1,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 龙华电影1,http://pili-live-hdl.qhmywl.com/dsdtv/0e5dee9e8021ce3b9ec9bb78e9710555.flv
 龙华电影1,http://220.134.196.147:9568/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
-CATCHPLAY电影,http://iptv12k.com:35461/live/test167/12345/1865.m3u8
-CATCHPLAY电影,http://iptv12k.com:35461/live/test167/12345/1252.m3u8
-CATCHPLAY电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
-CATCHPLAY电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
+CatchPlay电影,http://iptv12k.com:35461/live/test167/12345/1865.m3u8
+CatchPlay电影,http://iptv12k.com:35461/live/test167/12345/1252.m3u8
+CatchPlay电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+CatchPlay电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
 影迷数位电影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 影迷数位电影,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
 影迷数位电影,http://pili-live-hdl.qhmywl.com/dsdtv/991d0a1e4fc3c270d037fae11c587741.flv
@@ -320,16 +320,16 @@ CATCHPLAY电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/.m3u8
 tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 罪案侦缉频道,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
 
-CI罪案侦缉频道(a),http://iptv12k.com:35461/live/test167/12345/1246.m3u8
-CI罪案侦缉频道(b),http://iptv12k.com:35461/live/test167/12345/10963.m3u8
-CI罪案侦缉频道(c),http://iptv12k.com:35461/live/test167/12345/10964.m3u8
+Ci罪案侦缉频道(a),http://iptv12k.com:35461/live/test167/12345/1246.m3u8
+Ci罪案侦缉频道(b),http://iptv12k.com:35461/live/test167/12345/10963.m3u8
+Ci罪案侦缉频道(c),http://iptv12k.com:35461/live/test167/12345/10964.m3u8
 Ci罪案侦缉,http://50.7.220.74:8278/ci_twn/playlist.m3u8?tid=MDED2146129621461296&ct=18392&tsum=5d3635ae16593892965af78a8a1c402c
-CI罪案侦缉,http://iptv12k.com:35461/live/test167/12345/172.m3u8
+Ci罪案侦缉,http://iptv12k.com:35461/live/test167/12345/172.m3u8
 Ci罪案侦缉,http://open.live-web.timetv.cn/live/lbtv.m3u8?token=TOKEN&channel=B2B1317482
-CI罪案侦缉,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
-CI罪案侦缉,http://www.arp220.us:80/5838686431@Curly_MouseIPTV/Rk9kI8sbKG/1184
-CI罪案侦缉1,http://du1.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
-CI罪案侦缉1,http://ns1.hellotvvod.com:9906/9968193b9025460296f2876010dca377
+Ci罪案侦缉,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
+Ci罪案侦缉,http://www.arp220.us:80/5838686431@Curly_MouseIPTV/Rk9kI8sbKG/1184
+Ci罪案侦缉1,http://du1.ottclub.info:1935/live/c058.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
+Ci罪案侦缉1,http://ns1.hellotvvod.com:9906/9968193b9025460296f2876010dca377
 Ci罪案侦缉1,http://kk.luoke.net.cn/tw/asbb.php?id=058
 History,http://zhanglulai.tpddns.cn:818/57680913_0_11544_44992_0_1_1117_3117_117_1117_16.ts
 History,http://192.168.1.113:81/57672705_0_11106_44992_0_0_1718_3718_718_1718_16.ts
@@ -368,8 +368,8 @@ History6,http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332%2F149920150
 History6,http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332%2F149920150816T153535.ts=-1
 History7,http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21633
 History7,http://tw.iptv8k.org/gftv.m3u8?id=5bddcbd56e474934
-HISTORY7,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
-HISTORY7,http://live7.cdn.iptv8k.org/live/mys162/s.m3u8#http://tw.iptv8k.org/gftv.m3u8?id=5bddcbd56e474934
+History7,http://www.336699.live:1935/blocksix/4gtv-live026.stream/chunklist.m3u8
+History7,http://live7.cdn.iptv8k.org/live/mys162/s.m3u8#http://tw.iptv8k.org/gftv.m3u8?id=5bddcbd56e474934
 History7,http://58.99.33.16:1935/liveedge6/live_019.stream/playlist.m3u8?checkCode=37050688asdfsdfsadf
 History8,http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv026/master.m3u8?token=Nju6x8XzQwdsNxVXFXZ6Bg&expires=1494745200
 History8,http://cdn-07.sdn.si/historychannel/historychannel.isml/historychannel-video%3D1500000-audio101%3D128000.m3u8
@@ -878,9 +878,8 @@ HBO原创,zlive://173.208.209.114:7719/3677ff4a033b338ab4542e95643290c9
 靖天电影,zlive://173.208.209.114:7719/b2ab02cd2e797f87c924adb877406380
 壹电影,zlive://173.208.209.114:7719/3bce9de4abee51affc7e82affacd22ee
 探索频道,zlive://173.208.209.114:7719/f874001e277052be6fbd95d7edbe7ce3
-CATCHPLAY电影台,zlive://173.208.209.114:7719/be4980cb7d22972f655d2e5876477d2f
+CatchPlay电影台,zlive://173.208.209.114:7719/be4980cb7d22972f655d2e5876477d2f
 ##
-
 
 
 
